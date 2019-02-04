@@ -1,0 +1,8 @@
+cardNumber,name,contactNo,address,occupation,inTime,day,inTimeExact,outTimeExact,totalTime
+6084,Sabin,311,1234,12345,7:57 PM,Wednesday,2019 January 01,8:00 PM,3
+3034,Sa,865,d,d,7:58 PM,Monday,2019 January 02,8:00 PM,1
+8864,Sudip,123,222,222,7:58 PM,Tuesday,2019 January 29,8:04 PM,6
+8864,Sudip,98134561,SabinKharleHouse,iTSMYoCCY,8:07 PM,Tuesday,2019 January 29,8:09 PM,2
+6443,Sabin,98812345,Surunga,Doctor,2:42 AM,Wednesday,2019 January 30,2:06 PM,684
+6443,Sabin,98812345,Surunga,Doctor,2:09 PM,Wednesday,2019 January 30,2:09 PM,0
+9669,a,11,1,1,3:02 PM,Friday,2019 February 01,3:02 PM,0
